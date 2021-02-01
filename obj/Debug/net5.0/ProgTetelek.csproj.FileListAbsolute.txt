@@ -1,0 +1,16 @@
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/bin/Debug/net5.0/ProgTetelek
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/bin/Debug/net5.0/ProgTetelek.deps.json
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/bin/Debug/net5.0/ProgTetelek.runtimeconfig.json
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/bin/Debug/net5.0/ProgTetelek.runtimeconfig.dev.json
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/bin/Debug/net5.0/ProgTetelek.dll
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/bin/Debug/net5.0/ref/ProgTetelek.dll
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/bin/Debug/net5.0/ProgTetelek.pdb
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ProgTetelek.csprojAssemblyReference.cache
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ProgTetelek.GeneratedMSBuildEditorConfig.editorconfig
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ProgTetelek.AssemblyInfoInputs.cache
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ProgTetelek.AssemblyInfo.cs
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ProgTetelek.csproj.CoreCompileInputs.cache
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ProgTetelek.dll
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ref/ProgTetelek.dll
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ProgTetelek.pdb
+/media/csordasp/home/Programming Projects/C#/ProgTetelek/obj/Debug/net5.0/ProgTetelek.genruntimeconfig.cache
